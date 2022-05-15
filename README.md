@@ -2,7 +2,7 @@
 
 I am a Computer Science student @ University of Waterloo (2024) and Software Developer. I am currently interested in Full-Stack Web Development. Above all, I am someone who loves learning new things!
 
-I am an avid soccer (COYG) ⚽️ and basketball fan (WE THE NORTH) 🏀 and enjoy playing both in my free time. Some other hobbies of mine include Finance 📈, Travelling 🛩 and Fitness 💪🏽.  
+I am an avid soccer (COYG) ⚽️ and basketball fan (WE THE NORTH) 🏀 and enjoy playing both in my free time. Some other interests of mine include Finance 📈, Travelling 🛩, Fitness 💪🏽 and AdTech 📺.  
 
 ## 💪 Skills
 
