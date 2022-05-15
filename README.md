@@ -1,7 +1,6 @@
 ## 🧙‍♂️ Who Am I?
 
-I am a Computer Science student @ University of Waterloo (2024) and Software Developer. I am currently interested in Full-Stack Web Development
-and delving into ML/Data Science. Above all, I am someone who loves learning new things!
+I am a Computer Science student @ University of Waterloo (2024) and Software Developer. I am currently interested in Full-Stack Web Development. Above all, I am someone who loves learning new things!
 
 I am an avid soccer (COYG) ⚽️ and basketball fan (WE THE NORTH) 🏀 and enjoy playing both in my free time. Some other hobbies of mine include Finance 📈, Travelling 🛩 and Fitness 💪🏽.  
 
@@ -25,8 +24,9 @@ Some of the Technologies and Tools I have used:
 
 ## 🤔 Values and Principles
 
-- Failing is the best way to learn
+- Failing is one of the best ways to learn
 - Be comfortable with uncomfort
+- Don't let your education get in the way of your learning 
 - With great power comes great responsibility 🕷 
 
 Some of my Favourite Quotes:
